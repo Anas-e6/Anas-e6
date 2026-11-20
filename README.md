@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:anasselkhaldi89@gmail.com"><img src="https://img.shields.io/badge/Email-anasselkhaldi89%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/anas-el-khaldi-a9aa96412/"><img src="https://img.shields.io/badge/LinkedIn-Anas%20El%20Khaldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://anas-e6.github.io/"><img src="https://img.shields.io/badge/Carta%20de%20presentación-anas--e6.github.io-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web"/></a>
   <a href="https://anas-e6.github.io/files/CV-Anas-El-Khaldi.pdf"><img src="https://img.shields.io/badge/CV-PDF-B71C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
   <img src="https://img.shields.io/badge/Ubicación-Malgrat%20de%20Mar%2C%20Barcelona-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
